@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 16b405467a85aeb489188a43e2fef83b
+timeCreated: 1487628839
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - triangleTower: {fileID: 1302759931966544, guid: 1fa93c8c89b600949a3a9a02e7789a77,
+      type: 2}
+  - squareTower: {fileID: 1241253891262900, guid: 25983e27995a35b40b84b4258deda0da,
+      type: 2}
+  - hexagonTower: {fileID: 1283358315507814, guid: 4291c9fd8ecf6014b9c9ccc392ba5c53,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
